@@ -1,0 +1,8 @@
+{
+    "name": "Netbox",
+    "theme_color": "#0080ff",
+    "background_color": "#ffffff",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+}
